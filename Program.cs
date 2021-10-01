@@ -13,8 +13,7 @@ namespace AgendamientoLaboratorio.Frontend
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World! Probando GitHUbxxxxxx");
-            Console.WriteLine("Hello World! Probando GitHUbxxxxxx");
+            
             CreateHostBuilder(args).Build().Run();
         }
 
